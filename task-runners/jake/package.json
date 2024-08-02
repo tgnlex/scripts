@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jake": "^10.9.1",
+    "plop": "^4.0.1"
+  },
+  "dependencies": {
+    "puppeteer": "^22.8.0"
+  }
+}
